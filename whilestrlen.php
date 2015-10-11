@@ -1,4 +1,5 @@
 <?php
+	
 	$kata = "ABDULLOH";
 	$i=0;
 	while ($i <= strlen($kata)-1)
